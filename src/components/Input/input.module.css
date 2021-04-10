@@ -1,0 +1,18 @@
+.container {
+  margin-top: 2rem;
+}
+
+.containerInput {
+  display: flex;
+  align-items: center;
+}
+
+.titleInput {
+  font-size: 1rem;
+}
+
+.button {
+  background: #fff;
+  border: none;
+  cursor: pointer;
+}

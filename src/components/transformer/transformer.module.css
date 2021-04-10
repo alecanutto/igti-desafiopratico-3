@@ -1,0 +1,14 @@
+.containerHeader {
+  margin-top: 1rem;
+  background: #fff;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 2rem;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 2rem;
+}
